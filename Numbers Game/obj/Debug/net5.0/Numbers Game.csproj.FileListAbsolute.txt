@@ -1,0 +1,16 @@
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\bin\Debug\net5.0\Numbers Game.exe
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\bin\Debug\net5.0\Numbers Game.deps.json
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\bin\Debug\net5.0\Numbers Game.runtimeconfig.json
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\bin\Debug\net5.0\Numbers Game.runtimeconfig.dev.json
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\bin\Debug\net5.0\Numbers Game.dll
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\bin\Debug\net5.0\Numbers Game.pdb
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.csproj.AssemblyReference.cache
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.AssemblyInfoInputs.cache
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.AssemblyInfo.cs
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.csproj.CoreCompileInputs.cache
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.dll
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\refint\Numbers Game.dll
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.pdb
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\Numbers Game.genruntimeconfig.cache
+D:\Advanced-repos\Lab01a-Numbers-Game\Numbers Game\obj\Debug\net5.0\ref\Numbers Game.dll
